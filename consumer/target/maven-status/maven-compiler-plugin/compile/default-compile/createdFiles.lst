@@ -1,0 +1,6 @@
+com/example/consumer/UserRepo.class
+com/example/consumer/UserEntity.class
+com/example/consumer/ConsumerApp.class
+com/example/consumer/DbService.class
+com/example/consumer/User.class
+com/example/consumer/PulsarConsumer.class
